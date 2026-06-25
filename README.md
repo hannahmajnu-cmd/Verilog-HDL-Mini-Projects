@@ -36,11 +36,13 @@ A collection of Verilog HDL projects developed and verified using simulation too
 
 ## Repository Structure
 
+'''text
 Verilog-HDL-Mini-Projects
 ├── ALU_Design
 ├── UART_Communication_System
 ├── RISC_Processor
 └── Memory_Controller
+'''
 
 ## Author
 
